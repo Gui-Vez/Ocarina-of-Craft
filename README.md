@@ -1,4 +1,4 @@
-![The Legend of Zelda: Ocarina of Craft](https://firebasestorage.googleapis.com/v0/b/portfolio-guillaume-vezina.appspot.com/o/projets%2FThe%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Craft.png?alt=media&token=c13d5d6a-78be-4d4f-a107-e3fe751ca18e)
+![The Legend of Zelda: Ocarina of Craft](https://firebasestorage.googleapis.com/v0/b/portfolio-guillaume-vezina.appspot.com/o/projets%2FThe%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Craft%20-%20V2.png?alt=media&token=0c9093f8-fd50-4e52-800c-5cdad9fd1732)
 
 **The Legend of Zelda: Ocarina of Craft** is a recreation project of the iconic game "The Legend of Zelda: Ocarina of Time" within the Minecraft universe. 
 
@@ -13,7 +13,7 @@ This project aims to faithfully recreate the world, characters, and gameplay of 
 
 ## Usage
 
-The map is released publicly, but it should not be distributed or modified without crediting the original authors. This ensures respect for the hard work and creativity put into the project.
+The map and resource pack are released publicly, but they should not be distributed or modified without crediting the original authors. This ensures respect for the hard work and creativity put into the project.
 
 ## Credits
 
@@ -22,7 +22,7 @@ The map is released publicly, but it should not be distributed or modified witho
 
 ## Official Page
 
-Visit the [official page](https://www.planetminecraft.com/project/ocarina-of-craft/) for more information and updates.
+Visit the official page on [PlanetMinecraft](https://www.planetminecraft.com/project/ocarina-of-craft/) for more information and updates.
 
 ---
 
